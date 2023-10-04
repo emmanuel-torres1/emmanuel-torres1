@@ -1,16 +1,32 @@
-### Hi there 👋
+## Hi, I'm Jesus Torres 👋
 
-<!--
-**jesus-torres1/jesus-torres1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Mechanical Engineer turned Software Engineer  
+📚 Currently pursuing a Master of Science in Computer Science  
+🔧 Passionate about building innovative software solutions  
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I bring a unique blend of mechanical engineering expertise and software engineering knowledge. My journey from mechanical engineering to software development reflects my commitment to continuous learning and my drive to expand my skill set.
+
+### 🔧 Skills
+
+- **Languages**: Java, Python
+- **Tools**: IntelliJ IDEA
+
+### 🌟 Projects
+
+- **Coming Soon**  
+
+### 📚 Education
+
+- **Master of Science in Computer Science**  
+  Merrimack College, Expected Graduation Year: 2024
+
+- **Bachelor of Science in Mechanical Engineering**  
+  University of Puerto Rico, Mayaguez Campus, Graduation Year: 2021
+
+### 🌐 Connect
+
+Let's connect and collaborate on exciting projects. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/jesus-torres-garcia)!
+
+Thanks for stopping by! 😄
