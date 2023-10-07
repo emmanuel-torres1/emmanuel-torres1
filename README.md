@@ -1,4 +1,4 @@
-## Hi, I'm Jesus Torres 👋
+## Hi, I'm Jesús Torres 👋
 
 👨‍💻 Mechanical Engineer turned Software Engineer  
 📚 Currently pursuing a Master of Science in Computer Science   
