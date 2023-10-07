@@ -1,7 +1,7 @@
 ## Hi, I'm Jesus Torres 👋
 
 👨‍💻 Mechanical Engineer turned Software Engineer  
-📚 Currently pursuing a Master of Science in Computer Science 
+📚 Currently pursuing a Master of Science in Computer Science   
 🔧 Passionate about building innovative software solutions  
 
 ### About Me
