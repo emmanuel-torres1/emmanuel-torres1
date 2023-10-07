@@ -1,7 +1,7 @@
 ## Hi, I'm Jesus Torres 👋
 
 👨‍💻 Mechanical Engineer turned Software Engineer  
-📚 Currently pursuing a Master of Science in Computer Science  
+📚 Currently pursuing a Master of Science in Computer Science 
 🔧 Passionate about building innovative software solutions  
 
 ### About Me
@@ -19,7 +19,7 @@ I bring a unique blend of mechanical engineering expertise and software engineer
 
 ### 📚 Education
 
-- **Master of Science in Computer Science**  
+- **Master of Science in Computer Science, Software Engineering**  
   Merrimack College, Expected Graduation Year: 2024
 
 - **Bachelor of Science in Mechanical Engineering**  
