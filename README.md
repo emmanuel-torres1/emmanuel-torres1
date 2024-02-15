@@ -1,7 +1,6 @@
 ## Hi, I'm Jesús Torres 👋
 
-👨‍💻 Mechanical Engineer turned Software Engineer  
-📚 Currently pursuing a Master of Science in Computer Science   
+👨‍💻 Mechanical and Software Engineer    
 🔧 Passionate about building innovative software solutions  
 
 ### About Me
@@ -10,7 +9,7 @@ I bring a unique blend of mechanical engineering expertise and software engineer
 
 ### 🔧 Skills
 
-- **Languages**: Java, Python, R, SQL
+- **Languages**: Java, Python, Go, C++, R, SQL, JavaScript
 - **Tools**: IntelliJ IDEA
 
 ### 🌟 Projects
@@ -20,7 +19,7 @@ I bring a unique blend of mechanical engineering expertise and software engineer
 ### 📚 Education
 
 - **Master of Science in Computer Science, Software Engineering**  
-  Merrimack College, Expected Graduation Year: 2024
+  Merrimack College, Graduation Year: 2024
 
 - **Bachelor of Science in Mechanical Engineering**  
   University of Puerto Rico, Mayaguez Campus, Graduation Year: 2021
