@@ -14,7 +14,7 @@ I bring a unique blend of mechanical engineering expertise and software engineer
 
 ### 🌟 Projects
 
-- **Coming Soon**  
+- Computational Soft Matter Research Artificial Intelligence Agent 
 
 ### 📚 Education
 
