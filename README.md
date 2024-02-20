@@ -14,7 +14,8 @@ I bring a unique blend of mechanical engineering expertise and software engineer
 
 ### 🌟 Projects
 
-- Artificial Intelligence Agent specialized in Computational Soft Matter Research 
+- Artificial Intelligence Agent specialized in Computational Soft Matter Research
+- Parametric Estimator
 
 ### 📚 Education
 
