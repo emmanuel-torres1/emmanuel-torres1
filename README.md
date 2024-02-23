@@ -1,7 +1,7 @@
 ## Hi, I'm Jesús Torres 👋
 
 👨‍💻 Mechanical and Software Engineer    
-🔧 Passionate about building innovative software solutions  
+🔧 Passionate about building innovative software and Artificial Intelligence solutions  
 
 ### About Me
 
