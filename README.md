@@ -1,4 +1,5 @@
-## Hi, I'm Jesús Torres 👋
+## Hi, I'm Emmanuel Torres 👋
+Full name : Jesús Emmanuel Torres
 
 👨‍💻 Mechanical and Software Engineer    
 🔧 Passionate about building innovative software and artificial intelligence (AI) solutions  
