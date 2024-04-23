@@ -15,8 +15,8 @@ I bring a unique blend of mechanical engineering expertise and software engineer
 
 ### 🌟 Projects
 
-- Artificial Intelligence Agent specialized in Computational Soft Matter Research, server hosted. Project in collaboration with academics from the University of Puerto Rico, Mayaguez (UPRM) and the University of Notre Dame (ND) (In Progress)
-- Computational Soft Matter Research Artificial Intelligence Personal Assistant Agent (CSM AI) 
+- Artificial Intelligence Agent specialized in Computational Soft Matter Research. Project in collaboration with academics from the University of Puerto Rico, Mayaguez (UPRM) and the University of Notre Dame (ND) (In Progress)
+- Artificial Intelligence Computational Soft Matter Research Personal Assistant (CSM AI) 
 - Parametric Estimator 
 
 ### 📚 Education
