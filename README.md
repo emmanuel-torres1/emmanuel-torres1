@@ -10,7 +10,7 @@ I bring a unique blend of mechanical engineering expertise and software engineer
 
 ### 🔧 Skills
 
-- **Languages**: Java, Python, Go, C++, R, SQL, JavaScript
+- **Languages**: Java, Python, Go, C++, R, SQL, JavaScript, HTML, CSS, Fortran
 - **Tools**: IntelliJ IDEA
 
 ### 🌟 Projects
