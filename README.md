@@ -28,6 +28,6 @@ I bring a unique blend of mechanical engineering expertise and software engineer
 
 ### 🌐 Connect
 
-Let's connect and collaborate on exciting projects. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/jesus-torres-garcia)!
+Let's connect and collaborate on exciting projects. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/jemmanuel-torres)!
 
 Thanks for stopping by! 😄
