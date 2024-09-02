@@ -17,7 +17,6 @@ I bring a unique blend of mechanical engineering expertise and software engineer
 
 - Artificial Intelligence Agent specialized in Computational Soft Matter Research. Project in collaboration with academics from the University of Puerto Rico, Mayaguez (UPRM) and the University of Notre Dame (ND) (In Progress)
 - Artificial Intelligence 
-- Parametric Estimator 
 
 ### 📚 Education
 
