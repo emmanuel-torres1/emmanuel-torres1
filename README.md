@@ -1,7 +1,7 @@
 ## Hi, I'm Emmanuel Torres 👋
 Full name : Jesús Emmanuel Torres
 
-👨‍💻 Mechanical and Software Engineer    
+👨‍💻 Engineer and Computer Scientist    
 🔧 Passionate about building innovative software and artificial intelligence (AI) solutions  
 
 ### About Me
@@ -11,12 +11,13 @@ I bring a unique blend of mechanical engineering expertise and software engineer
 ### 🔧 Skills
 
 - **Languages**: Java, Python, Go, C++, R, SQL, JavaScript, HTML, CSS, Fortran
-- **Tools**: IntelliJ IDEA
+- **Tools**: IntelliJ IDEA, Jupiter Notebooks 
 
 ### 🌟 Projects
 
 - Artificial Intelligence Agent specialized in Computational Soft Matter Research. Project in collaboration with academics from the University of Puerto Rico, Mayaguez (UPRM) and the University of Notre Dame (ND) (In Progress)
-- Artificial Intelligence 
+- Artificial Intelligence
+- Robotics
 
 ### 📚 Education
 
