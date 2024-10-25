@@ -2,7 +2,7 @@
 Full name : Jesús Emmanuel Torres
 
 👨‍💻 Engineer and Computer Scientist    
-🔧 Passionate about building innovative software and artificial intelligence (AI) solutions  
+🔧 Passionate about building innovative software, robotics and artificial intelligence (AI) solutions  
 
 ### About Me
 
